@@ -1,0 +1,13 @@
+{
+  "id": "slite",
+  "name": "Slite",
+  "version": "1.0.0",
+  "description": "Slite",
+  "main": "index.js",
+  "author": "ChristianSmith <christian_smith@vipmail.hu>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://slite.com/organization/select",
+    "hasNotificationSound": true
+  }
+}
