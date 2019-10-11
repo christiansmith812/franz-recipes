@@ -10,4 +10,4 @@ __To add a new service:__
 * Et voila, simple as that!
 
 ## How to develop, test and deploy recipes
-[Read the documentation](/docs)
+[Read the documentation](https://github.com/meetfranz/plugins/tree/master/docs)
